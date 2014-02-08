@@ -22,5 +22,7 @@ a circle referring to your canvas.
     });
 ```
 
+![](CircleOfFifthsChords.png)
+
 Eric Blossom January 2014
 http://BlossomAssociates.net/Music/CircleOfFifths.html
